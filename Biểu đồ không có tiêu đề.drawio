@@ -1,80 +1,169 @@
-<mxfile host="app.diagrams.net" modified="2023-08-02T08:09:03.789Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="VKiOrmiPeor107SLYI8D" version="21.6.6" type="github">
-  <diagram name="Trang-1" id="iy2qps0jmyHMc87bv4V7">
-    <mxGraphModel dx="880" dy="488" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2023-08-02T08:32:44.805Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="4u_1diNaDARP30d0gZrt" version="21.6.6" type="github" pages="2">
+  <diagram name="Credit_OPS" id="iy2qps0jmyHMc87bv4V7">
+    <mxGraphModel dx="1173" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="7bcCva5KcHn718SDY0uY-1" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;PHI TẬP TRUNG&lt;/b&gt;&lt;/font&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="40" y="55" width="720" height="60" as="geometry" />
+        <mxCell id="7bcCva5KcHn718SDY0uY-36" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="24" y="340" width="780" height="255" as="geometry" />
         </mxCell>
-        <mxCell id="7bcCva5KcHn718SDY0uY-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="40" y="185" width="720" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="7bcCva5KcHn718SDY0uY-4" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;CÔNG TY&lt;br&gt;SÀI GÒN&lt;br&gt;&lt;/font&gt;" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;strokeColor=#444444;buttonText=;fontSize=8;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="80" y="40" width="120" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="7bcCva5KcHn718SDY0uY-5" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;CÔNG TY&lt;br&gt;BIÊN HÒA&lt;br&gt;&lt;/font&gt;" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;strokeColor=#444444;buttonText=;fontSize=8;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="80" y="170" width="120" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="7bcCva5KcHn718SDY0uY-6" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;&lt;i&gt;KIỂM SOÁT TÍN DỤNG&lt;br&gt;SÀI GÒN&lt;br&gt;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;strokeColor=#444444;buttonText=;fontSize=8;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="240" y="55" width="80" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="7bcCva5KcHn718SDY0uY-7" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;&lt;i&gt;KIỂM SOÁT TÍN DỤNG&lt;br&gt;BIÊN HÒA&lt;br&gt;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;strokeColor=#444444;buttonText=;fontSize=8;whiteSpace=wrap;align=center;" vertex="1" parent="1">
-          <mxGeometry x="240" y="185" width="80" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="7bcCva5KcHn718SDY0uY-8" value="KH LOẠI 1 SỬ DỤNG" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;strokeColor=#d6b656;buttonText=;fontSize=8;whiteSpace=wrap;align=left;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="360" y="55" width="160" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="7bcCva5KcHn718SDY0uY-9" value="KH LOẠI 2 SỬ DỤNG" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;strokeColor=#9673a6;buttonText=;fontSize=8;whiteSpace=wrap;align=left;fillColor=#e1d5e7;" vertex="1" parent="1">
-          <mxGeometry x="360" y="75" width="140" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="7bcCva5KcHn718SDY0uY-10" value="KH LOẠI 3 MỞ MỚI SỬ DỤNG" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;buttonText=;fontSize=8;whiteSpace=wrap;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="360" y="95" width="130" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="7bcCva5KcHn718SDY0uY-14" value="dòng chảy tính dụng" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="590" y="65" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="7bcCva5KcHn718SDY0uY-15" value="dòng chảy tính dụng" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
-          <mxGeometry x="590" y="195" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="7bcCva5KcHn718SDY0uY-16" value="KH LOẠI 1 SỬ DỤNG" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;strokeColor=#d6b656;buttonText=;fontSize=8;whiteSpace=wrap;align=left;fillColor=#f0c238;" vertex="1" parent="1">
-          <mxGeometry x="360" y="185" width="160" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="7bcCva5KcHn718SDY0uY-17" value="KH LOẠI 2 SỬ DỤNG" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;strokeColor=#9673a6;buttonText=;fontSize=8;whiteSpace=wrap;align=left;fillColor=#ba73dd;" vertex="1" parent="1">
-          <mxGeometry x="360" y="205" width="140" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="7bcCva5KcHn718SDY0uY-18" value="KH LOẠI 3 MỞ MỚI SỬ DỤNG" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;buttonText=;fontSize=8;whiteSpace=wrap;align=left;fillColor=#749bd2;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="360" y="225" width="130" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="7bcCva5KcHn718SDY0uY-19" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="7bcCva5KcHn718SDY0uY-19" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="15" width="780" height="255" as="geometry" />
         </mxCell>
-        <mxCell id="7bcCva5KcHn718SDY0uY-20" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;TẬP TRUNG&lt;/b&gt;&lt;/font&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="7bcCva5KcHn718SDY0uY-1" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;PHI TẬP TRUNG&lt;/b&gt;&lt;/font&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#d5e8d4;strokeColor=#82b366;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="55" width="720" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7bcCva5KcHn718SDY0uY-2" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#e1d5e7;strokeColor=#9673a6;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="185" width="720" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7bcCva5KcHn718SDY0uY-4" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;CÔNG TY&lt;br&gt;SÀI GÒN&lt;br&gt;&lt;/font&gt;" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;strokeColor=#444444;buttonText=;fontSize=8;whiteSpace=wrap;align=center;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="40" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="7bcCva5KcHn718SDY0uY-5" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;CÔNG TY&lt;br&gt;BIÊN HÒA&lt;br&gt;&lt;/font&gt;" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;strokeColor=#444444;buttonText=;fontSize=8;whiteSpace=wrap;align=center;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="170" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="7bcCva5KcHn718SDY0uY-6" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;&lt;i&gt;KIỂM SOÁT TÍN DỤNG&lt;br&gt;SÀI GÒN&lt;br&gt;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;strokeColor=#444444;buttonText=;fontSize=8;whiteSpace=wrap;align=center;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="55" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7bcCva5KcHn718SDY0uY-7" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;&lt;i&gt;KIỂM SOÁT TÍN DỤNG&lt;br&gt;BIÊN HÒA&lt;br&gt;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;strokeColor=#444444;buttonText=;fontSize=8;whiteSpace=wrap;align=center;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="185" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7bcCva5KcHn718SDY0uY-8" value="KH LOẠI 1 SỬ DỤNG" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;strokeColor=#d6b656;buttonText=;fontSize=8;whiteSpace=wrap;align=left;fillColor=#fff2cc;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="55" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7bcCva5KcHn718SDY0uY-9" value="KH LOẠI 2 SỬ DỤNG" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;strokeColor=#9673a6;buttonText=;fontSize=8;whiteSpace=wrap;align=left;fillColor=#e1d5e7;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="75" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7bcCva5KcHn718SDY0uY-10" value="KH LOẠI 3 MỞ MỚI SỬ DỤNG" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;buttonText=;fontSize=8;whiteSpace=wrap;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="95" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7bcCva5KcHn718SDY0uY-14" value="dòng chảy tín dụng" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="65" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7bcCva5KcHn718SDY0uY-15" value="dòng chảy tín dụng" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="195" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7bcCva5KcHn718SDY0uY-16" value="KH LOẠI 1 SỬ DỤNG" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;strokeColor=#d6b656;buttonText=;fontSize=8;whiteSpace=wrap;align=left;fillColor=#f0c238;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="185" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7bcCva5KcHn718SDY0uY-17" value="KH LOẠI 2 SỬ DỤNG" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;strokeColor=#9673a6;buttonText=;fontSize=8;whiteSpace=wrap;align=left;fillColor=#ba73dd;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="205" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7bcCva5KcHn718SDY0uY-18" value="KH LOẠI 3 MỞ MỚI SỬ DỤNG" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;buttonText=;fontSize=8;whiteSpace=wrap;align=left;fillColor=#749bd2;strokeColor=#6c8ebf;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="225" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7bcCva5KcHn718SDY0uY-20" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;TẬP TRUNG&lt;/b&gt;&lt;/font&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#d5e8d4;strokeColor=#82b366;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="44" y="360" width="720" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="7bcCva5KcHn718SDY0uY-22" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;CÔNG TY&lt;br&gt;SÀI GÒN&lt;br&gt;&lt;/font&gt;" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;strokeColor=#444444;buttonText=;fontSize=8;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+        <mxCell id="7bcCva5KcHn718SDY0uY-22" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;CÔNG TY&lt;br&gt;SÀI GÒN&lt;br&gt;&lt;/font&gt;" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;strokeColor=#444444;buttonText=;fontSize=8;whiteSpace=wrap;align=center;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="360" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="7bcCva5KcHn718SDY0uY-23" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;CÔNG TY&lt;br&gt;BIÊN HÒA&lt;br&gt;&lt;/font&gt;" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;strokeColor=#444444;buttonText=;fontSize=8;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+        <mxCell id="7bcCva5KcHn718SDY0uY-23" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;CÔNG TY&lt;br&gt;BIÊN HÒA&lt;br&gt;&lt;/font&gt;" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;strokeColor=#444444;buttonText=;fontSize=8;whiteSpace=wrap;align=center;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="450" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="7bcCva5KcHn718SDY0uY-24" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;&lt;i&gt;KIỂM SOÁT TÍN DỤNG&lt;br&gt;DOANH NGHIỆP&lt;br&gt;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;strokeColor=#444444;buttonText=;fontSize=8;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+        <mxCell id="7bcCva5KcHn718SDY0uY-24" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;&lt;i&gt;KIỂM SOÁT TÍN DỤNG&lt;br&gt;DOANH NGHIỆP&lt;br&gt;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;strokeColor=#444444;buttonText=;fontSize=8;whiteSpace=wrap;align=center;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="70" y="360" width="120" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="7bcCva5KcHn718SDY0uY-29" value="dòng chảy tính dụng" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="1">
+        <mxCell id="7bcCva5KcHn718SDY0uY-29" value="dòng chảy tín dụng" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="594" y="435" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="7bcCva5KcHn718SDY0uY-31" value="KH LOẠI 1 SỬ DỤNG" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;strokeColor=#d6b656;buttonText=;fontSize=8;whiteSpace=wrap;align=left;fillColor=#f0c238;" vertex="1" parent="1">
+        <mxCell id="7bcCva5KcHn718SDY0uY-31" value="KH LOẠI 1 SỬ DỤNG" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;strokeColor=#d6b656;buttonText=;fontSize=8;whiteSpace=wrap;align=left;fillColor=#f0c238;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="360" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7bcCva5KcHn718SDY0uY-32" value="KH LOẠI 2 SỬ DỤNG" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;strokeColor=#9673a6;buttonText=;fontSize=8;whiteSpace=wrap;align=left;fillColor=#ba73dd;" vertex="1" parent="1">
+        <mxCell id="7bcCva5KcHn718SDY0uY-32" value="KH LOẠI 2 SỬ DỤNG" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;strokeColor=#9673a6;buttonText=;fontSize=8;whiteSpace=wrap;align=left;fillColor=#ba73dd;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="420" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7bcCva5KcHn718SDY0uY-33" value="KH LOẠI 3 MỞ MỚI SỬ DỤNG" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;buttonText=;fontSize=8;whiteSpace=wrap;align=left;fillColor=#749bd2;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="7bcCva5KcHn718SDY0uY-33" value="KH LOẠI 3 MỞ MỚI SỬ DỤNG" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;buttonText=;fontSize=8;whiteSpace=wrap;align=left;fillColor=#749bd2;strokeColor=#6c8ebf;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="360" y="480" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7bcCva5KcHn718SDY0uY-36" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=none;" vertex="1" parent="1">
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Bản sao của Credit_OPS" id="uE2STZj28Ryh80k8AuWs">
+    <mxGraphModel dx="880" dy="431" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="MRiXTnad9QiztM7AKRki-0" />
+        <mxCell id="MRiXTnad9QiztM7AKRki-1" parent="MRiXTnad9QiztM7AKRki-0" />
+        <mxCell id="MRiXTnad9QiztM7AKRki-25" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="MRiXTnad9QiztM7AKRki-1">
           <mxGeometry x="24" y="340" width="780" height="255" as="geometry" />
+        </mxCell>
+        <mxCell id="MRiXTnad9QiztM7AKRki-16" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=none;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="MRiXTnad9QiztM7AKRki-1">
+          <mxGeometry x="20" y="15" width="780" height="255" as="geometry" />
+        </mxCell>
+        <mxCell id="MRiXTnad9QiztM7AKRki-2" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;PHI TẬP TRUNG&lt;/b&gt;&lt;/font&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#d5e8d4;strokeColor=#82b366;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="MRiXTnad9QiztM7AKRki-1">
+          <mxGeometry x="40" y="40" width="720" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="MRiXTnad9QiztM7AKRki-3" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#e1d5e7;strokeColor=#9673a6;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="MRiXTnad9QiztM7AKRki-1">
+          <mxGeometry x="40" y="170" width="720" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="MRiXTnad9QiztM7AKRki-4" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;CÔNG TY&lt;br&gt;SÀI GÒN&lt;br&gt;&lt;/font&gt;" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;strokeColor=#444444;buttonText=;fontSize=8;whiteSpace=wrap;align=center;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="MRiXTnad9QiztM7AKRki-1">
+          <mxGeometry x="80" y="40" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="MRiXTnad9QiztM7AKRki-5" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;CÔNG TY&lt;br&gt;BIÊN HÒA&lt;br&gt;&lt;/font&gt;" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;strokeColor=#444444;buttonText=;fontSize=8;whiteSpace=wrap;align=center;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="MRiXTnad9QiztM7AKRki-1">
+          <mxGeometry x="80" y="170" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="MRiXTnad9QiztM7AKRki-6" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;&lt;i&gt;KIỂM SOÁT TÍN DỤNG&lt;br&gt;SÀI GÒN&lt;br&gt;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;strokeColor=#444444;buttonText=;fontSize=8;whiteSpace=wrap;align=center;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="MRiXTnad9QiztM7AKRki-1">
+          <mxGeometry x="240" y="40" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="MRiXTnad9QiztM7AKRki-7" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;&lt;i&gt;KIỂM SOÁT TÍN DỤNG&lt;br&gt;BIÊN HÒA&lt;br&gt;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;strokeColor=#444444;buttonText=;fontSize=8;whiteSpace=wrap;align=center;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="MRiXTnad9QiztM7AKRki-1">
+          <mxGeometry x="240" y="170" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="MRiXTnad9QiztM7AKRki-8" value="KH LOẠI 1 SỬ DỤNG" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;strokeColor=#d6b656;buttonText=;fontSize=8;whiteSpace=wrap;align=left;fillColor=#fff2cc;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="MRiXTnad9QiztM7AKRki-1">
+          <mxGeometry x="360" y="70" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MRiXTnad9QiztM7AKRki-9" value="KH LOẠI 2 SỬ DỤNG" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;strokeColor=#9673a6;buttonText=;fontSize=8;whiteSpace=wrap;align=left;fillColor=#e1d5e7;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="MRiXTnad9QiztM7AKRki-1">
+          <mxGeometry x="360" y="90" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MRiXTnad9QiztM7AKRki-10" value="KH LOẠI 3 MỞ MỚI SỬ DỤNG" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;buttonText=;fontSize=8;whiteSpace=wrap;align=left;fillColor=#dae8fc;strokeColor=#6c8ebf;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="MRiXTnad9QiztM7AKRki-1">
+          <mxGeometry x="360" y="110" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MRiXTnad9QiztM7AKRki-11" value="dòng chảy tín dụng" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="MRiXTnad9QiztM7AKRki-1">
+          <mxGeometry x="590" y="65" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MRiXTnad9QiztM7AKRki-12" value="dòng chảy tín dụng" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="MRiXTnad9QiztM7AKRki-1">
+          <mxGeometry x="590" y="195" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MRiXTnad9QiztM7AKRki-13" value="KH LOẠI 1 SỬ DỤNG" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;strokeColor=#d6b656;buttonText=;fontSize=8;whiteSpace=wrap;align=left;fillColor=#f0c238;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="MRiXTnad9QiztM7AKRki-1">
+          <mxGeometry x="360" y="200" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MRiXTnad9QiztM7AKRki-14" value="KH LOẠI 2 SỬ DỤNG" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;strokeColor=#9673a6;buttonText=;fontSize=8;whiteSpace=wrap;align=left;fillColor=#ba73dd;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="MRiXTnad9QiztM7AKRki-1">
+          <mxGeometry x="360" y="220" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MRiXTnad9QiztM7AKRki-15" value="KH LOẠI 3 MỞ MỚI SỬ DỤNG" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;buttonText=;fontSize=8;whiteSpace=wrap;align=left;fillColor=#749bd2;strokeColor=#6c8ebf;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="MRiXTnad9QiztM7AKRki-1">
+          <mxGeometry x="360" y="240" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MRiXTnad9QiztM7AKRki-17" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;TẬP TRUNG&lt;/b&gt;&lt;/font&gt;" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.patternFillRect;fillStyle=diag;step=5;fillStrokeWidth=0.2;fillStrokeColor=#dddddd;fillColor=#d5e8d4;strokeColor=#82b366;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="MRiXTnad9QiztM7AKRki-1">
+          <mxGeometry x="44" y="360" width="720" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="MRiXTnad9QiztM7AKRki-18" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;CÔNG TY&lt;br&gt;SÀI GÒN&lt;br&gt;&lt;/font&gt;" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;strokeColor=#444444;buttonText=;fontSize=8;whiteSpace=wrap;align=center;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="MRiXTnad9QiztM7AKRki-1">
+          <mxGeometry x="220" y="360" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="MRiXTnad9QiztM7AKRki-19" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;CÔNG TY&lt;br&gt;BIÊN HÒA&lt;br&gt;&lt;/font&gt;" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;strokeColor=#444444;buttonText=;fontSize=8;whiteSpace=wrap;align=center;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="MRiXTnad9QiztM7AKRki-1">
+          <mxGeometry x="220" y="450" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="MRiXTnad9QiztM7AKRki-20" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;&lt;b&gt;&lt;i&gt;KIỂM SOÁT TÍN DỤNG&lt;br&gt;DOANH NGHIỆP&lt;br&gt;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;strokeColor=#444444;buttonText=;fontSize=8;whiteSpace=wrap;align=center;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="MRiXTnad9QiztM7AKRki-1">
+          <mxGeometry x="70" y="360" width="120" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="MRiXTnad9QiztM7AKRki-21" value="dòng chảy tín dụng" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="MRiXTnad9QiztM7AKRki-1">
+          <mxGeometry x="594" y="435" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MRiXTnad9QiztM7AKRki-22" value="KH LOẠI 1 SỬ DỤNG" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;strokeColor=#d6b656;buttonText=;fontSize=8;whiteSpace=wrap;align=left;fillColor=#f0c238;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="MRiXTnad9QiztM7AKRki-1">
+          <mxGeometry x="360" y="410" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MRiXTnad9QiztM7AKRki-23" value="KH LOẠI 2 SỬ DỤNG" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;strokeColor=#9673a6;buttonText=;fontSize=8;whiteSpace=wrap;align=left;fillColor=#ba73dd;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="MRiXTnad9QiztM7AKRki-1">
+          <mxGeometry x="360" y="450" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MRiXTnad9QiztM7AKRki-24" value="KH LOẠI 3 MỞ MỚI SỬ DỤNG" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;buttonText=;fontSize=8;whiteSpace=wrap;align=left;fillColor=#749bd2;strokeColor=#6c8ebf;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="MRiXTnad9QiztM7AKRki-1">
+          <mxGeometry x="360" y="490" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LU_BMLKm_85y5tzZ_-gm-1" value="TÍN DỤNG PHÁT SINH THEO MÙA /&amp;nbsp; SỰ KIỆN GIỚI HẠN THỜI GIAN SỬ DỤNG" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;strokeColor=#b85450;buttonText=;fontSize=8;whiteSpace=wrap;align=left;fillColor=#f8cecc;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;fontStyle=2" vertex="1" parent="MRiXTnad9QiztM7AKRki-1">
+          <mxGeometry x="360" y="40" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LU_BMLKm_85y5tzZ_-gm-2" value="TÍN DỤNG PHÁT SINH THEO MÙA /&amp;nbsp; SỰ KIỆN GIỚI HẠN THỜI GIAN SỬ DỤNG" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;strokeColor=#b85450;buttonText=;fontSize=8;whiteSpace=wrap;align=left;fillColor=#f8cecc;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;fontStyle=2" vertex="1" parent="MRiXTnad9QiztM7AKRki-1">
+          <mxGeometry x="360" y="170" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LU_BMLKm_85y5tzZ_-gm-3" value="TÍN DỤNG PHÁT SINH THEO MÙA /&amp;nbsp; SỰ KIỆN GIỚI HẠN THỜI GIAN SỬ DỤNG" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.ios.iTextInput;strokeColor=#b85450;buttonText=;fontSize=8;whiteSpace=wrap;align=left;fillColor=#f8cecc;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;fontStyle=2" vertex="1" parent="MRiXTnad9QiztM7AKRki-1">
+          <mxGeometry x="360" y="360" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
