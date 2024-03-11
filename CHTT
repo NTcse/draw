@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-11T06:52:37.963Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="co1Gh0CtyadnbfYdsSkO" version="21.6.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-11T07:13:16.053Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="lqQFN4CdGJWAl2pUdmig" version="21.6.7" type="github" pages="2">
   <diagram name="Thao tác người dùng" id="zv0d7w4jgrlIt8odoly8">
     <mxGraphModel dx="794" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -100,8 +100,8 @@
             <mxPoint x="630" y="219.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qsuYznwGecJnOYj-99Nd-67" value="Tổng số lượng&amp;nbsp;&lt;br&gt;Tồn kho&amp;nbsp; kém phẩm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="620" y="200" width="130" height="40" as="geometry" />
+        <mxCell id="qsuYznwGecJnOYj-99Nd-67" value="Tổng số lượng&amp;nbsp;&lt;br&gt;Tồn kho +&amp;nbsp; kém phẩm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="615" y="200" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qsuYznwGecJnOYj-99Nd-68" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="qsuYznwGecJnOYj-99Nd-39" target="qsuYznwGecJnOYj-99Nd-69">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
