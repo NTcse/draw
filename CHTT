@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-11T03:47:21.605Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="8Hf7Olb2jXLYyHmR9j5V" version="21.6.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-11T03:47:47.887Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="RZTFC1ei4sHTUh-bnj3Z" version="21.6.7" type="github" pages="2">
   <diagram name="Thao tác người dùng" id="zv0d7w4jgrlIt8odoly8">
     <mxGraphModel dx="794" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -145,7 +145,7 @@
           <mxGeometry x="640" y="418" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qsuYznwGecJnOYj-99Nd-89" value="SL kém phẩm&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="630" y="155" width="100" height="30" as="geometry" />
+          <mxGeometry x="635" y="155" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="qsuYznwGecJnOYj-99Nd-93" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1" target="qsuYznwGecJnOYj-99Nd-89">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
