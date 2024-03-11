@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-11T06:50:00.412Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="XwcrMnMXTpHqESyxZ2Yx" version="21.6.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-11T06:51:15.417Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="lnUtv1EQWCnqqkXGeYMJ" version="21.6.7" type="github" pages="2">
   <diagram name="Thao tác người dùng" id="zv0d7w4jgrlIt8odoly8">
     <mxGraphModel dx="794" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -192,13 +192,13 @@
           <mxGeometry x="214" y="300" width="326" height="285" as="geometry" />
         </mxCell>
         <mxCell id="PERfPex0P8KwvT58XqtS-7" value="Địa chỉ cửa hàng" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="345" y="310" width="105" height="20" as="geometry" />
+          <mxGeometry x="340" y="310" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PERfPex0P8KwvT58XqtS-8" value="Tên cửa hàng" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
           <mxGeometry x="223.5" y="310" width="105" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PERfPex0P8KwvT58XqtS-9" value="SL tồn" style="rounded=1;whiteSpace=wrap;html=1;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
-          <mxGeometry x="465" y="310" width="70" height="20" as="geometry" />
+          <mxGeometry x="460" y="310" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PERfPex0P8KwvT58XqtS-10" value="&lt;font color=&quot;#12642e&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Tồn kho:&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="213.5" y="200" width="90" height="30" as="geometry" />
