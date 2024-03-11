@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-11T03:47:47.887Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="RZTFC1ei4sHTUh-bnj3Z" version="21.6.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-11T03:50:15.956Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="7GX2KXSxqINO2l-WbO_F" version="21.6.7" type="github" pages="2">
   <diagram name="Thao tác người dùng" id="zv0d7w4jgrlIt8odoly8">
     <mxGraphModel dx="794" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -189,16 +189,16 @@
           <mxGeometry x="480" y="240" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PERfPex0P8KwvT58XqtS-6" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="250" y="290" width="320" height="300" as="geometry" />
+          <mxGeometry x="244" y="300" width="326" height="285" as="geometry" />
         </mxCell>
-        <mxCell id="PERfPex0P8KwvT58XqtS-7" value="Địa chỉ cửa hàng" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="375" y="300" width="105" height="20" as="geometry" />
+        <mxCell id="PERfPex0P8KwvT58XqtS-7" value="Địa chỉ cửa hàng" style="rounded=1;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="375" y="310" width="105" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="PERfPex0P8KwvT58XqtS-8" value="Tên cửa hàng" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="300" width="105" height="20" as="geometry" />
+        <mxCell id="PERfPex0P8KwvT58XqtS-8" value="Tên cửa hàng" style="rounded=1;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="255.75" y="310" width="105" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="PERfPex0P8KwvT58XqtS-9" value="SL tồn" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="300" width="70" height="20" as="geometry" />
+        <mxCell id="PERfPex0P8KwvT58XqtS-9" value="SL tồn" style="rounded=1;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="494" y="310" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="PERfPex0P8KwvT58XqtS-10" value="&lt;font color=&quot;#12642e&quot; style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Tồn kho:&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="243.5" y="200" width="90" height="30" as="geometry" />
@@ -239,7 +239,7 @@
             <mxPoint x="170" y="120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="PERfPex0P8KwvT58XqtS-21" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+        <mxCell id="PERfPex0P8KwvT58XqtS-21" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.447;entryY=1.075;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="STxTQwkJItm3U8b_kH9n-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="570" y="120" as="sourcePoint" />
             <mxPoint x="620" y="60" as="targetPoint" />
@@ -294,6 +294,9 @@
             <mxPoint x="460" y="195" as="sourcePoint" />
             <mxPoint x="680" y="185" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="STxTQwkJItm3U8b_kH9n-3" value="Site cửa hàng sau khi user&amp;nbsp;&lt;br&gt;đăng nhập" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="560" y="20" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
