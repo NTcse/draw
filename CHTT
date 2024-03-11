@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-11T07:13:16.053Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="lqQFN4CdGJWAl2pUdmig" version="21.6.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-11T07:20:24.956Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="SFqeEbI9coagNp8rtcrk" version="21.6.7" type="github" pages="2">
   <diagram name="Thao tác người dùng" id="zv0d7w4jgrlIt8odoly8">
     <mxGraphModel dx="794" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -311,7 +311,7 @@
           <mxGeometry x="10" y="230" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BX2_rkje7SFOU6XfnguJ-2" value="Sau khi check kho tại cửa&amp;nbsp;&lt;br&gt;hàng không có thì sẽ tìm sang&amp;nbsp;&lt;br&gt;những cửa hàng khác&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="600" y="230" width="190" height="60" as="geometry" />
+          <mxGeometry x="595" y="230" width="190" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BX2_rkje7SFOU6XfnguJ-4" value="Tổng tồn kho + kém phẩm" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="600" y="200" width="160" height="30" as="geometry" />
@@ -333,6 +333,9 @@
         </mxCell>
         <mxCell id="0-J5mDMv4KIfsIEvDGSb-1" value="Hiển thị những cửa hàng&lt;br&gt;còn hàng&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="610" y="413" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FmtTNfq6UmQe0fO-K_X--1" value="Ghi nhận kém phẩm vào kho" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="590" y="280" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
