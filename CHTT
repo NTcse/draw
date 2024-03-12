@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-12T08:10:21.651Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="pqW76OuvuoBtgLShK1Ib" version="21.6.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-12T08:11:14.820Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="_L6R8rBoIO4dq3J1f_bA" version="21.6.7" type="github" pages="2">
   <diagram name="Logic - Code" id="zv0d7w4jgrlIt8odoly8">
     <mxGraphModel dx="813" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -367,7 +367,7 @@
           <mxGeometry x="630" y="180" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BX2_rkje7SFOU6XfnguJ-5" value="SL tồn kho" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#000000;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="40" y="255" width="80" height="30" as="geometry" />
+          <mxGeometry x="40" y="250" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BX2_rkje7SFOU6XfnguJ-6" value="SL kém phẩm&lt;br&gt;sau khi check" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#000000;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="680" y="90" width="100" height="40" as="geometry" />
