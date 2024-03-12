@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-12T08:13:51.605Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="1g8O-0YAu-jrqe9gUszO" version="21.6.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-12T08:14:36.038Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="IEpwpKXxg9FNyDex8c7-" version="21.6.7" type="github" pages="2">
   <diagram name="Logic - Code" id="zv0d7w4jgrlIt8odoly8">
     <mxGraphModel dx="813" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -182,7 +182,7 @@
         <mxCell id="0iRzsZ6K5DHCjc_uOtmH-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0iRzsZ6K5DHCjc_uOtmH-13" target="0iRzsZ6K5DHCjc_uOtmH-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="0iRzsZ6K5DHCjc_uOtmH-13" value="In (Parameter): Mã hàng + Site + Ngày giờ thực hiện" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="0iRzsZ6K5DHCjc_uOtmH-13" value="In (Parameter): Mã hàng + Site + Ngày giờ thực hiện + UserName" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="309" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0iRzsZ6K5DHCjc_uOtmH-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0iRzsZ6K5DHCjc_uOtmH-14" target="0iRzsZ6K5DHCjc_uOtmH-15" edge="1">
