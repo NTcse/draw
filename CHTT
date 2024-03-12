@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-12T01:43:07.104Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="zsdWGIHERRqzkuJa-XbN" version="24.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-12T01:43:53.945Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="KPru2Bpz8-5qUxCOKt2-" version="24.0.4" type="github" pages="2">
   <diagram name="Logic - Code" id="zv0d7w4jgrlIt8odoly8">
     <mxGraphModel dx="1034" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -108,8 +108,8 @@
             <mxPoint x="630" y="264.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qsuYznwGecJnOYj-99Nd-79" value="Tìm cửa hàng khác" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#000000;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="640" y="245" width="130" height="30" as="geometry" />
+        <mxCell id="qsuYznwGecJnOYj-99Nd-79" value="Tìm cửa hàng khác&lt;div&gt;Get_DS_CHTT_CoHang&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#000000;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="625" y="240" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="qsuYznwGecJnOYj-99Nd-80" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="qsuYznwGecJnOYj-99Nd-81" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
