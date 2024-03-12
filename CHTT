@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-12T01:50:00.133Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="Q4wkK5GmHTzQC_Q65Njq" version="24.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-12T02:01:44.414Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="z2dVnwEC95QMwX_rtoax" version="24.0.4" type="github" pages="2">
   <diagram name="Logic - Code" id="zv0d7w4jgrlIt8odoly8">
     <mxGraphModel dx="1034" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -154,8 +154,53 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="0iRzsZ6K5DHCjc_uOtmH-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0iRzsZ6K5DHCjc_uOtmH-5" target="0iRzsZ6K5DHCjc_uOtmH-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="0iRzsZ6K5DHCjc_uOtmH-5" value="&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;font style=&quot;background-color: rgb(51, 51, 255);&quot; color=&quot;#ff3333&quot;&gt;API lấy TT mã hàng tại CHTT&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;font style=&quot;background-color: rgb(51, 51, 255);&quot; color=&quot;#ff3333&quot;&gt;và CHTT có hàng&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="25" y="790" width="176" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0iRzsZ6K5DHCjc_uOtmH-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0iRzsZ6K5DHCjc_uOtmH-6" target="0iRzsZ6K5DHCjc_uOtmH-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0iRzsZ6K5DHCjc_uOtmH-6" value="In (Parameter): Mã hàng / Barcode + Site + Ngày giờ thực hiện" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="309" y="790" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0iRzsZ6K5DHCjc_uOtmH-8" value="Out (Table):&lt;div&gt;Site | Mã hàng | Ngày giờ thực hiện (in) | Site CHTT |Tên CHTT | DC | Tồn 3000 | Tồn 3007&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="509" y="790" width="281" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0iRzsZ6K5DHCjc_uOtmH-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0iRzsZ6K5DHCjc_uOtmH-11" target="0iRzsZ6K5DHCjc_uOtmH-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0iRzsZ6K5DHCjc_uOtmH-11" value="&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;color: rgb(255, 51, 51); background-color: rgb(51, 51, 255);&quot;&gt;API Xử lý di kho AUTO - SAP&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="880" width="176" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0iRzsZ6K5DHCjc_uOtmH-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0iRzsZ6K5DHCjc_uOtmH-13" target="0iRzsZ6K5DHCjc_uOtmH-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0iRzsZ6K5DHCjc_uOtmH-13" value="In (Parameter): Mã hàng + Site + Ngày giờ thực hiện" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="304" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0iRzsZ6K5DHCjc_uOtmH-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0iRzsZ6K5DHCjc_uOtmH-14" target="0iRzsZ6K5DHCjc_uOtmH-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0iRzsZ6K5DHCjc_uOtmH-14" value="Out (Table):&lt;div&gt;Site | Mã hàng | Ngày giờ thực hiện (in) | Site CHTT| Mã lỗi | Thông tin lỗi | Tồn 3000 | Tồn 3007&lt;/div&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="504" y="880" width="296" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0iRzsZ6K5DHCjc_uOtmH-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0iRzsZ6K5DHCjc_uOtmH-15" target="0iRzsZ6K5DHCjc_uOtmH-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0iRzsZ6K5DHCjc_uOtmH-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0iRzsZ6K5DHCjc_uOtmH-15" target="0iRzsZ6K5DHCjc_uOtmH-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0iRzsZ6K5DHCjc_uOtmH-15" value="" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="612" y="1010" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0iRzsZ6K5DHCjc_uOtmH-17" value="!=1 | Thông tin lỗi" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1020" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0iRzsZ6K5DHCjc_uOtmH-19" value="1 - OK" style="ellipse;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="1010" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
