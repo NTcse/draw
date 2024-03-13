@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T02:04:25.699Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="e3c0gJ37olIHF0Am7ccc" version="24.0.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-13T02:08:14.855Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="QNTqvrB1dZ3Azemu6PF_" version="24.0.5" type="github" pages="2">
   <diagram name="Logic - Code" id="zv0d7w4jgrlIt8odoly8">
     <mxGraphModel dx="829" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -177,7 +177,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="0iRzsZ6K5DHCjc_uOtmH-11" value="&lt;div style=&quot;text-wrap: nowrap;&quot;&gt;&lt;span style=&quot;color: rgb(255, 51, 51); background-color: rgb(51, 51, 255);&quot;&gt;API Xử lý di kho AUTO - SAP&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="20" y="780" width="176" height="60" as="geometry" />
+          <mxGeometry x="25" y="780" width="176" height="60" as="geometry" />
         </mxCell>
         <mxCell id="0iRzsZ6K5DHCjc_uOtmH-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="0iRzsZ6K5DHCjc_uOtmH-13" target="0iRzsZ6K5DHCjc_uOtmH-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
