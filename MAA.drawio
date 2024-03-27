@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T06:43:54.688Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="deIQIxIALRsYd2jmuKJa" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-27T06:44:14.187Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="GBev7vpNw-AL-Q1SFYB4" version="24.0.5" type="github">
   <diagram name="Trang-1" id="6WqdI3NEc1mItbDLKokB">
     <mxGraphModel dx="1034" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -168,6 +168,13 @@
         </mxCell>
         <mxCell id="uQeBqYyg12_eveGrQPS6-43" value="Người sử dụng" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="700" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uQeBqYyg12_eveGrQPS6-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uQeBqYyg12_eveGrQPS6-45" target="uQeBqYyg12_eveGrQPS6-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="336" y="610" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="uQeBqYyg12_eveGrQPS6-45" value="Người lái / Sử dụng" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="276" y="330" width="120" height="60" as="geometry" />
