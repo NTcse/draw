@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T06:49:28.725Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="mrX_auB3O_zny6ujI9Vg" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-27T09:31:29.420Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="0LR01OrCsbT4_zvZxlEA" version="24.0.5" type="github">
   <diagram name="Trang-1" id="6WqdI3NEc1mItbDLKokB">
     <mxGraphModel dx="1034" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -222,7 +222,7 @@
         <mxCell id="uQeBqYyg12_eveGrQPS6-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uQeBqYyg12_eveGrQPS6-71" target="uQeBqYyg12_eveGrQPS6-73">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uQeBqYyg12_eveGrQPS6-71" value="Niên hạng" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="uQeBqYyg12_eveGrQPS6-71" value="Niên hạn" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="560" y="680" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uQeBqYyg12_eveGrQPS6-73" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
