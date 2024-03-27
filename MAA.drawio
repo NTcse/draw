@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T06:44:14.187Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="GBev7vpNw-AL-Q1SFYB4" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-27T06:45:15.598Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="gcwX_KOTPI7FyloCCF55" version="24.0.5" type="github">
   <diagram name="Trang-1" id="6WqdI3NEc1mItbDLKokB">
     <mxGraphModel dx="1034" dy="724" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -179,11 +179,30 @@
         <mxCell id="uQeBqYyg12_eveGrQPS6-45" value="Người lái / Sử dụng" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="276" y="330" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="uQeBqYyg12_eveGrQPS6-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uQeBqYyg12_eveGrQPS6-47" target="uQeBqYyg12_eveGrQPS6-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="uQeBqYyg12_eveGrQPS6-47" value="Giá mua" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="146" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uQeBqYyg12_eveGrQPS6-49" value="Lịch sử" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
           <mxGeometry x="426" y="560" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="uQeBqYyg12_eveGrQPS6-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uQeBqYyg12_eveGrQPS6-58" target="uQeBqYyg12_eveGrQPS6-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uQeBqYyg12_eveGrQPS6-58" value="Trạng thái hoàn thiện" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="146" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uQeBqYyg12_eveGrQPS6-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="uQeBqYyg12_eveGrQPS6-60" target="uQeBqYyg12_eveGrQPS6-49">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uQeBqYyg12_eveGrQPS6-60" value="Trạng thái sử dụng" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="146" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
